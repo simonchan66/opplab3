@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\bin\Debug\net7.0\interface_abstract_class.exe
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\bin\Debug\net7.0\interface_abstract_class.deps.json
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\bin\Debug\net7.0\interface_abstract_class.runtimeconfig.json
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\bin\Debug\net7.0\interface_abstract_class.dll
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\bin\Debug\net7.0\interface_abstract_class.pdb
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.AssemblyInfo.cs
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.dll
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\refint\interface_abstract_class.dll
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.pdb
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\interface_abstract_class.genruntimeconfig.cache
+C:\Users\user\source\repos\interface_abstract_class\interface_abstract_class\obj\Debug\net7.0\ref\interface_abstract_class.dll
